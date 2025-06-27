@@ -1,3 +1,5 @@
+<img src="icons/icon48.png" width="64" />
+
 # YouTube Shorts Blocker 🔥
 
 A minimalist Chrome extension that hides **YouTube Shorts** from:
